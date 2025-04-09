@@ -1,0 +1,40 @@
+.main{
+    max-width: 100%;
+    margin: auto;
+
+}
+h1{
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    vertical-align: middle;
+    color: yellow;
+
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    height: auto;
+    
+}
+thead{
+    background-color: rgb(86, 8, 65);
+}
+tbody, thead{
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+}
+th{
+    color: white;
+}
+td,th{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+}
